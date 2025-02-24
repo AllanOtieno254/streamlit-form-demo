@@ -1,0 +1,6 @@
+streamlit-form-demo/
+│── README.md
+│── requirements.txt
+│── forms.py
+│── main_form.py
+│── .gitignore
